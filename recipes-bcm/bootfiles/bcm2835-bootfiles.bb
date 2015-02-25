@@ -1,7 +1,7 @@
 DESCRIPTION = "Closed source binary files to help boot the ARM on the BCM2835."
 LICENSE = "Proprietary"
 
-LIC_FILES_CHKSUM = "file://LICENCE.broadcom;md5=e86e693d19572ee64cc8b17fb062faa9"
+LIC_FILES_CHKSUM = "file://Broadcom;md5=957f6640d5e2d2acfce73a36a56cb32f"
 
 inherit deploy
 
